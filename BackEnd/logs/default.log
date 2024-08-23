@@ -1,0 +1,153 @@
+2024-08-23T21:41:38.484Z error: Error logging in user
+2024-08-23T21:41:45.223Z error: Error logging in user
+2024-08-23T21:42:14.142Z info: Connected to the MySQL database mysql2
+2024-08-23T21:42:14.237Z info: ChannelPartners table created successfully
+2024-08-23T21:42:14.238Z info: User table created successfully
+2024-08-23T21:42:14.260Z info: Leads table created successfully
+2024-08-23T21:43:00.178Z info: New user registered successfully
+2024-08-23T21:43:07.225Z warn: Login failed: Invalid password
+2024-08-23T21:43:15.329Z warn: Login failed: Invalid password
+2024-08-23T21:43:20.954Z info: User login successful
+2024-08-23T21:43:29.688Z info: Fetching channel partners
+2024-08-23T21:43:29.694Z info: Channel partners fetched successfully
+2024-08-23T21:43:29.699Z info: Fetching channel partners
+2024-08-23T21:43:29.701Z info: Channel partners fetched successfully
+2024-08-23T21:43:37.618Z warn: No leads found
+2024-08-23T21:43:37.620Z info: Fetching channel partners
+2024-08-23T21:43:37.624Z info: Channel partners fetched successfully
+2024-08-23T21:43:37.626Z warn: No leads found
+2024-08-23T21:43:37.628Z info: Fetching channel partners
+2024-08-23T21:43:37.630Z info: Channel partners fetched successfully
+2024-08-23T21:43:42.102Z info: Fetching channel partners
+2024-08-23T21:43:42.104Z warn: No leads found
+2024-08-23T21:43:42.105Z info: Channel partners fetched successfully
+2024-08-23T21:43:42.107Z info: Fetching channel partners
+2024-08-23T21:43:42.108Z warn: No leads found
+2024-08-23T21:43:42.110Z info: Channel partners fetched successfully
+2024-08-23T21:43:46.631Z info: Fetching channel partners
+2024-08-23T21:43:46.632Z info: Channel partners fetched successfully
+2024-08-23T21:43:46.635Z info: Fetching channel partners
+2024-08-23T21:43:46.636Z info: Channel partners fetched successfully
+2024-08-23T21:43:49.683Z info: Fetching channel partners
+2024-08-23T21:43:49.684Z info: Channel partners fetched successfully
+2024-08-23T21:43:49.686Z warn: No leads found
+2024-08-23T21:43:49.688Z info: Fetching channel partners
+2024-08-23T21:43:49.690Z info: Channel partners fetched successfully
+2024-08-23T21:43:49.691Z warn: No leads found
+2024-08-23T21:43:52.239Z info: CSV file created for all leads
+2024-08-23T21:44:09.183Z info: Fetching channel partners
+2024-08-23T21:44:09.184Z warn: No leads found
+2024-08-23T21:44:09.186Z info: Channel partners fetched successfully
+2024-08-23T21:44:09.187Z info: Fetching channel partners
+2024-08-23T21:44:09.188Z warn: No leads found
+2024-08-23T21:44:09.190Z info: Channel partners fetched successfully
+2024-08-23T21:44:14.309Z info: Fetching channel partners
+2024-08-23T21:44:14.311Z info: Channel partners fetched successfully
+2024-08-23T21:44:14.313Z info: Fetching channel partners
+2024-08-23T21:44:14.314Z info: Channel partners fetched successfully
+2024-08-23T21:47:02.990Z info: Fetching channel partners
+2024-08-23T21:47:02.991Z info: Channel partners fetched successfully
+2024-08-23T21:47:02.993Z info: Fetching channel partners
+2024-08-23T21:47:02.994Z info: Channel partners fetched successfully
+2024-08-23T21:47:40.394Z info: Fetching channel partners
+2024-08-23T21:47:40.396Z info: Channel partners fetched successfully
+2024-08-23T21:47:40.398Z info: Fetching channel partners
+2024-08-23T21:47:40.399Z info: Channel partners fetched successfully
+2024-08-23T21:48:58.509Z info: Fetching channel partners
+2024-08-23T21:48:58.510Z info: Channel partners fetched successfully
+2024-08-23T21:48:58.512Z info: Fetching channel partners
+2024-08-23T21:48:58.513Z info: Channel partners fetched successfully
+2024-08-23T21:49:16.703Z info: Fetching channel partners
+2024-08-23T21:49:16.704Z info: Channel partners fetched successfully
+2024-08-23T21:49:43.070Z info: Fetching channel partners
+2024-08-23T21:49:43.072Z info: Channel partners fetched successfully
+2024-08-23T21:49:43.073Z info: Fetching channel partners
+2024-08-23T21:49:43.075Z info: Channel partners fetched successfully
+2024-08-23T21:49:46.255Z warn: No leads found
+2024-08-23T21:49:46.260Z info: Fetching channel partners
+2024-08-23T21:49:46.261Z warn: No leads found
+2024-08-23T21:49:46.262Z info: Channel partners fetched successfully
+2024-08-23T21:49:46.264Z info: Fetching channel partners
+2024-08-23T21:49:46.266Z info: Channel partners fetched successfully
+2024-08-23T21:49:52.009Z info: Fetching channel partners
+2024-08-23T21:49:52.011Z warn: No leads found
+2024-08-23T21:49:52.013Z info: Channel partners fetched successfully
+2024-08-23T21:49:52.015Z info: Fetching channel partners
+2024-08-23T21:49:52.017Z warn: No leads found
+2024-08-23T21:49:52.018Z info: Channel partners fetched successfully
+2024-08-23T21:52:10.513Z info: Fetching channel partners
+2024-08-23T21:52:10.514Z info: Channel partners fetched successfully
+2024-08-23T21:52:10.516Z info: Fetching channel partners
+2024-08-23T21:52:10.518Z info: Channel partners fetched successfully
+2024-08-23T21:52:36.449Z info: Fetching channel partners
+2024-08-23T21:52:36.450Z info: Channel partners fetched successfully
+2024-08-23T21:52:36.452Z info: Fetching channel partners
+2024-08-23T21:52:36.453Z info: Channel partners fetched successfully
+2024-08-23T21:53:25.183Z info: Fetching channel partners
+2024-08-23T21:53:25.184Z info: Channel partners fetched successfully
+2024-08-23T21:53:25.186Z info: Fetching channel partners
+2024-08-23T21:53:25.188Z info: Channel partners fetched successfully
+2024-08-23T21:53:33.142Z info: Fetching channel partners
+2024-08-23T21:53:33.143Z info: Channel partners fetched successfully
+2024-08-23T21:53:33.145Z info: Fetching channel partners
+2024-08-23T21:53:33.146Z info: Channel partners fetched successfully
+2024-08-23T21:53:47.776Z info: Fetching channel partners
+2024-08-23T21:53:47.777Z info: Channel partners fetched successfully
+2024-08-23T21:53:47.779Z info: Fetching channel partners
+2024-08-23T21:53:47.780Z info: Channel partners fetched successfully
+2024-08-23T21:54:07.141Z info: Fetching channel partners
+2024-08-23T21:54:07.143Z info: Channel partners fetched successfully
+2024-08-23T21:54:07.146Z info: Fetching channel partners
+2024-08-23T21:54:07.147Z info: Channel partners fetched successfully
+2024-08-23T21:54:17.700Z info: Fetching channel partners
+2024-08-23T21:54:17.702Z info: Channel partners fetched successfully
+2024-08-23T21:54:17.706Z info: Fetching channel partners
+2024-08-23T21:54:17.707Z info: Channel partners fetched successfully
+2024-08-23T21:55:14.664Z info: Fetching channel partners
+2024-08-23T21:55:14.665Z info: Channel partners fetched successfully
+2024-08-23T21:55:14.667Z info: Fetching channel partners
+2024-08-23T21:55:14.668Z info: Channel partners fetched successfully
+2024-08-23T21:55:26.141Z info: Checking for existing channel partner
+2024-08-23T21:55:26.145Z info: Channel Partner created successfully: 
+2024-08-23T21:55:30.181Z info: Fetching channel partners
+2024-08-23T21:55:30.183Z info: Channel partners fetched successfully
+2024-08-23T21:55:30.187Z info: Fetching channel partners
+2024-08-23T21:55:30.189Z info: Channel partners fetched successfully
+2024-08-23T22:07:24.203Z info: Connected to the MySQL database mysql2
+2024-08-23T22:07:24.309Z info: User table created successfully
+2024-08-23T22:07:24.310Z info: ChannelPartners table created successfully
+2024-08-23T22:07:24.333Z info: Leads table created successfully
+2024-08-23T22:08:17.345Z info: New user registered successfully
+2024-08-23T22:08:22.999Z info: User login successful
+2024-08-23T22:08:29.021Z info: User login successful
+2024-08-23T22:09:19.751Z info: Checking for existing channel partner
+2024-08-23T22:09:19.772Z info: Channel Partner created successfully: 
+2024-08-23T22:09:22.635Z info: Fetching channel partners
+2024-08-23T22:09:22.643Z info: Channel partners fetched successfully
+2024-08-23T22:09:22.648Z info: Fetching channel partners
+2024-08-23T22:09:22.650Z info: Channel partners fetched successfully
+2024-08-23T22:09:26.934Z info: Fetching channel partners
+2024-08-23T22:09:26.936Z info: Channel partners fetched successfully
+2024-08-23T22:09:26.939Z warn: No leads found
+2024-08-23T22:09:26.941Z info: Fetching channel partners
+2024-08-23T22:09:26.944Z info: Channel partners fetched successfully
+2024-08-23T22:09:26.946Z warn: No leads found
+2024-08-23T22:09:32.714Z info: Filtering leads with params: {"partnerCode":"EFA2A","leadSource":"","leadInterest":"","timeframe":""}
+2024-08-23T22:09:36.115Z info: Fetching channel partners
+2024-08-23T22:09:36.116Z info: Channel partners fetched successfully
+2024-08-23T22:09:36.119Z info: Fetching channel partners
+2024-08-23T22:09:36.121Z info: Channel partners fetched successfully
+2024-08-23T22:09:49.385Z info: New lead submitted by partner code EFA2A
+2024-08-23T22:09:53.545Z info: Fetching channel partners
+2024-08-23T22:09:53.548Z info: Leads fetched successfully
+2024-08-23T22:09:53.551Z info: Channel partners fetched successfully
+2024-08-23T22:09:53.555Z info: Fetching channel partners
+2024-08-23T22:09:53.556Z info: Leads fetched successfully
+2024-08-23T22:09:53.559Z info: Channel partners fetched successfully
+2024-08-23T22:10:01.099Z info: Fetching channel partners
+2024-08-23T22:10:01.101Z info: Leads fetched successfully
+2024-08-23T22:10:01.103Z info: Channel partners fetched successfully
+2024-08-23T22:10:01.107Z info: Fetching channel partners
+2024-08-23T22:10:01.109Z info: Leads fetched successfully
+2024-08-23T22:10:01.111Z info: Channel partners fetched successfully
+2024-08-23T22:10:02.378Z info: CSV file created for all leads

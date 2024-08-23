@@ -1,0 +1,292 @@
+2024-08-23T12:31:01.293Z error: Error logging in user
+2024-08-23T12:31:49.469Z info: Connected to the MySQL database mysql2
+2024-08-23T12:31:58.512Z info: Connected to the MySQL database mysql2
+2024-08-23T12:32:10.233Z info: Connected to the MySQL database mysql2
+2024-08-23T12:32:16.806Z info: Connected to the MySQL database mysql2
+2024-08-23T12:32:22.840Z info: Connected to the MySQL database mysql2
+2024-08-23T12:32:30.568Z info: User login successful
+2024-08-23T12:32:30.569Z error: Error logging in user
+2024-08-23T12:32:38.805Z info: Connected to the MySQL database mysql2
+2024-08-23T12:32:50.937Z info: Connected to the MySQL database mysql2
+2024-08-23T12:32:51.757Z error: Error logging in user
+2024-08-23T12:33:01.087Z info: Connected to the MySQL database mysql2
+2024-08-23T12:33:01.711Z error: Error logging in user
+2024-08-23T12:33:13.519Z info: Connected to the MySQL database mysql2
+2024-08-23T12:33:23.251Z info: Connected to the MySQL database mysql2
+2024-08-23T12:33:34.234Z info: Connected to the MySQL database mysql2
+2024-08-23T12:33:36.632Z info: Connected to the MySQL database mysql2
+2024-08-23T12:33:44.968Z info: Connected to the MySQL database mysql2
+2024-08-23T12:33:53.795Z info: Connected to the MySQL database mysql2
+2024-08-23T12:34:02.677Z info: Connected to the MySQL database mysql2
+2024-08-23T12:34:14.691Z info: Connected to the MySQL database mysql2
+2024-08-23T12:34:16.125Z info: User login successful
+2024-08-23T12:34:32.601Z info: Connected to the MySQL database mysql2
+2024-08-23T12:34:42.222Z info: Connected to the MySQL database mysql2
+2024-08-23T12:34:43.444Z info: User login successful
+2024-08-23T12:34:52.464Z info: User login successful
+2024-08-23T12:35:05.286Z info: Connected to the MySQL database mysql2
+2024-08-23T12:35:06.462Z info: User login successful
+2024-08-23T12:35:16.223Z info: Connected to the MySQL database mysql2
+2024-08-23T12:35:21.462Z info: Connected to the MySQL database mysql2
+2024-08-23T12:35:22.631Z info: User login successful
+2024-08-23T12:35:45.387Z info: User login successful
+2024-08-23T12:36:37.806Z info: Connected to the MySQL database mysql2
+2024-08-23T12:36:39.053Z info: User login successful
+2024-08-23T12:37:12.570Z info: Connected to the MySQL database mysql2
+2024-08-23T12:57:27.445Z info: Connected to the MySQL database mysql2
+2024-08-23T12:57:39.499Z info: Connected to the MySQL database mysql2
+2024-08-23T12:57:50.244Z info: Connected to the MySQL database mysql2
+2024-08-23T12:57:55.119Z info: Connected to the MySQL database mysql2
+2024-08-23T12:58:00.026Z info: Connected to the MySQL database mysql2
+2024-08-23T12:58:03.923Z info: Connected to the MySQL database mysql2
+2024-08-23T12:59:46.871Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:05.883Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:16.200Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:16.248Z error: Error creating LeadTable table: Failed to open the referenced table 'channelpartners'
+2024-08-23T13:02:18.859Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:18.904Z error: Error creating LeadTable table: Failed to open the referenced table 'channelpartners'
+2024-08-23T13:02:21.401Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:21.446Z error: Error creating LeadTable table: Failed to open the referenced table 'channelpartners'
+2024-08-23T13:02:24.598Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:24.644Z error: Error creating LeadTable table: Failed to open the referenced table 'channelpartners'
+2024-08-23T13:02:47.883Z info: Connected to the MySQL database mysql2
+2024-08-23T13:02:47.931Z error: Error creating LeadTable table: Failed to open the referenced table 'channelpartners'
+2024-08-23T13:04:58.082Z info: Connected to the MySQL database mysql2
+2024-08-23T13:04:58.125Z error: Error creating LeadTable table: Failed to open the referenced table 'channelpartners'
+2024-08-23T13:05:07.201Z info: Connected to the MySQL database mysql2
+2024-08-23T13:05:07.276Z info: ChannelPartners table created successfully
+2024-08-23T13:05:07.301Z info: LeadTable table created successfully
+2024-08-23T13:05:44.883Z info: Connected to the MySQL database mysql2
+2024-08-23T13:05:44.926Z info: ChannelPartners table already exists
+2024-08-23T13:05:44.927Z info: Leads table already exists
+2024-08-23T13:09:37.061Z info: Connected to the MySQL database mysql2
+2024-08-23T13:09:37.125Z info: ChannelPartners table created successfully
+2024-08-23T13:09:37.129Z info: User table created successfully
+2024-08-23T13:09:37.149Z info: Leads table created successfully
+2024-08-23T13:59:12.146Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:12.191Z info: Leads table already exists
+2024-08-23T13:59:12.193Z info: ChannelPartners table already exists
+2024-08-23T13:59:34.309Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:34.351Z info: ChannelPartners table already exists
+2024-08-23T13:59:34.353Z info: Leads table already exists
+2024-08-23T13:59:35.597Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:35.644Z info: ChannelPartners table already exists
+2024-08-23T13:59:35.645Z info: Leads table already exists
+2024-08-23T13:59:36.822Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:36.865Z info: Leads table already exists
+2024-08-23T13:59:36.866Z info: ChannelPartners table already exists
+2024-08-23T13:59:47.006Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:47.056Z info: ChannelPartners table already exists
+2024-08-23T13:59:47.057Z info: Leads table already exists
+2024-08-23T13:59:48.920Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:48.965Z info: ChannelPartners table already exists
+2024-08-23T13:59:48.968Z info: Leads table already exists
+2024-08-23T13:59:50.205Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:50.249Z info: ChannelPartners table already exists
+2024-08-23T13:59:50.250Z info: Leads table already exists
+2024-08-23T13:59:52.249Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:52.295Z info: ChannelPartners table already exists
+2024-08-23T13:59:52.296Z info: Leads table already exists
+2024-08-23T13:59:54.348Z info: Connected to the MySQL database mysql2
+2024-08-23T13:59:54.395Z info: ChannelPartners table already exists
+2024-08-23T13:59:54.396Z info: Leads table already exists
+2024-08-23T14:00:27.117Z info: Connected to the MySQL database mysql2
+2024-08-23T14:00:27.158Z info: ChannelPartners table already exists
+2024-08-23T14:00:27.160Z info: Leads table already exists
+2024-08-23T14:00:57.738Z info: Connected to the MySQL database mysql2
+2024-08-23T14:00:57.781Z info: ChannelPartners table already exists
+2024-08-23T14:00:57.782Z info: Leads table already exists
+2024-08-23T14:01:01.141Z info: Connected to the MySQL database mysql2
+2024-08-23T14:01:01.183Z info: ChannelPartners table already exists
+2024-08-23T14:01:01.184Z info: Leads table already exists
+2024-08-23T14:03:29.449Z info: Connected to the MySQL database mysql2
+2024-08-23T14:03:29.496Z info: ChannelPartners table already exists
+2024-08-23T14:03:29.497Z info: Leads table already exists
+2024-08-23T14:03:39.857Z info: Connected to the MySQL database mysql2
+2024-08-23T14:03:39.901Z info: ChannelPartners table already exists
+2024-08-23T14:03:39.902Z info: Leads table already exists
+2024-08-23T14:03:43.086Z info: Connected to the MySQL database mysql2
+2024-08-23T14:03:43.130Z info: ChannelPartners table already exists
+2024-08-23T14:03:43.131Z info: Leads table already exists
+2024-08-23T14:03:46.334Z info: Connected to the MySQL database mysql2
+2024-08-23T14:03:46.377Z info: ChannelPartners table already exists
+2024-08-23T14:03:46.378Z info: Leads table already exists
+2024-08-23T14:03:49.112Z info: Connected to the MySQL database mysql2
+2024-08-23T14:03:49.159Z info: Leads table already exists
+2024-08-23T14:03:49.161Z info: ChannelPartners table already exists
+2024-08-23T14:04:01.307Z info: Connected to the MySQL database mysql2
+2024-08-23T14:04:01.350Z info: ChannelPartners table already exists
+2024-08-23T14:04:01.351Z info: Leads table already exists
+2024-08-23T14:04:11.422Z info: Connected to the MySQL database mysql2
+2024-08-23T14:04:11.468Z info: ChannelPartners table already exists
+2024-08-23T14:04:17.292Z info: Connected to the MySQL database mysql2
+2024-08-23T14:04:25.522Z info: Connected to the MySQL database mysql2
+2024-08-23T14:05:23.325Z info: Connected to the MySQL database mysql2
+2024-08-23T14:05:27.751Z info: Connected to the MySQL database mysql2
+2024-08-23T14:05:28.985Z info: Connected to the MySQL database mysql2
+2024-08-23T14:05:30.698Z info: Connected to the MySQL database mysql2
+2024-08-23T14:05:31.917Z info: Connected to the MySQL database mysql2
+2024-08-23T14:06:35.167Z info: Connected to the MySQL database mysql2
+2024-08-23T14:06:43.205Z info: Connected to the MySQL database mysql2
+2024-08-23T14:06:47.868Z info: Connected to the MySQL database mysql2
+2024-08-23T14:06:54.778Z info: Connected to the MySQL database mysql2
+2024-08-23T14:07:05.169Z info: Connected to the MySQL database mysql2
+2024-08-23T14:07:07.979Z info: Connected to the MySQL database mysql2
+2024-08-23T14:07:10.358Z info: Connected to the MySQL database mysql2
+2024-08-23T14:07:21.643Z info: Connected to the MySQL database mysql2
+2024-08-23T14:08:00.066Z info: Connected to the MySQL database mysql2
+2024-08-23T14:08:10.168Z info: Connected to the MySQL database mysql2
+2024-08-23T14:08:13.037Z info: Connected to the MySQL database mysql2
+2024-08-23T14:08:16.511Z info: Connected to the MySQL database mysql2
+2024-08-23T14:08:21.527Z info: Connected to the MySQL database mysql2
+2024-08-23T14:09:12.663Z info: Connected to the MySQL database mysql2
+2024-08-23T14:09:24.217Z info: Connected to the MySQL database mysql2
+2024-08-23T14:09:28.157Z info: Connected to the MySQL database mysql2
+2024-08-23T14:09:54.922Z info: Connected to the MySQL database mysql2
+2024-08-23T14:09:57.273Z info: Connected to the MySQL database mysql2
+2024-08-23T14:09:59.958Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:02.141Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:04.664Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:16.371Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:43.126Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:45.923Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:48.312Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:54.441Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:56.870Z info: Connected to the MySQL database mysql2
+2024-08-23T14:10:59.235Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:05.532Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:06.593Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:09.757Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:11.736Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:13.432Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:17.628Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:26.187Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:47.949Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:51.802Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:55.188Z info: Connected to the MySQL database mysql2
+2024-08-23T14:11:56.817Z info: Connected to the MySQL database mysql2
+2024-08-23T14:12:18.921Z info: Connected to the MySQL database mysql2
+2024-08-23T14:12:26.746Z info: Connected to the MySQL database mysql2
+2024-08-23T14:12:30.848Z info: Connected to the MySQL database mysql2
+2024-08-23T14:12:36.687Z info: Connected to the MySQL database mysql2
+2024-08-23T14:12:39.387Z info: Connected to the MySQL database mysql2
+2024-08-23T14:12:46.406Z info: Connected to the MySQL database mysql2
+2024-08-23T14:13:36.377Z info: Connected to the MySQL database mysql2
+2024-08-23T14:15:28.639Z info: Connected to the MySQL database mysql2
+2024-08-23T14:17:26.532Z info: Connected to the MySQL database mysql2
+2024-08-23T14:17:37.877Z info: Checking for existing channel partner
+2024-08-23T14:17:37.883Z warn: Channel Partner with this email already exists: 
+2024-08-23T14:17:45.080Z info: Checking for existing channel partner
+2024-08-23T14:17:45.082Z warn: Channel Partner with this phone number already exists: 
+2024-08-23T14:17:50.980Z warn: Invalid phone number format: 
+2024-08-23T14:17:59.954Z info: Checking for existing channel partner
+2024-08-23T14:17:59.972Z info: Channel Partner created successfully: 
+2024-08-23T14:18:05.716Z info: Fetching channel partners
+2024-08-23T14:18:05.719Z info: Channel partners fetched successfully
+2024-08-23T14:22:51.277Z info: Connected to the MySQL database mysql2
+2024-08-23T14:23:11.685Z info: Connected to the MySQL database mysql2
+2024-08-23T14:25:25.632Z info: Connected to the MySQL database mysql2
+2024-08-23T14:25:30.046Z info: Connected to the MySQL database mysql2
+2024-08-23T14:25:31.084Z info: Connected to the MySQL database mysql2
+2024-08-23T14:26:09.362Z info: Connected to the MySQL database mysql2
+2024-08-23T14:26:11.046Z info: Connected to the MySQL database mysql2
+2024-08-23T14:26:13.221Z info: Connected to the MySQL database mysql2
+2024-08-23T14:26:16.516Z info: Connected to the MySQL database mysql2
+2024-08-23T14:26:31.030Z info: Connected to the MySQL database mysql2
+2024-08-23T14:27:29.523Z info: Connected to the MySQL database mysql2
+2024-08-23T14:27:41.160Z info: Connected to the MySQL database mysql2
+2024-08-23T14:27:54.658Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:01.835Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:04.343Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:05.558Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:07.304Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:10.373Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:23.513Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:47.346Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:49.694Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:54.082Z info: Connected to the MySQL database mysql2
+2024-08-23T14:28:56.097Z info: Connected to the MySQL database mysql2
+2024-08-23T14:29:02.711Z info: Connected to the MySQL database mysql2
+2024-08-23T14:30:02.124Z info: Connected to the MySQL database mysql2
+2024-08-23T14:30:12.588Z info: Connected to the MySQL database mysql2
+2024-08-23T14:30:41.979Z info: Connected to the MySQL database mysql2
+2024-08-23T14:30:48.498Z info: Connected to the MySQL database mysql2
+2024-08-23T14:30:53.598Z info: Connected to the MySQL database mysql2
+2024-08-23T14:30:56.422Z info: Connected to the MySQL database mysql2
+2024-08-23T14:31:00.477Z info: Connected to the MySQL database mysql2
+2024-08-23T14:31:39.832Z info: Connected to the MySQL database mysql2
+2024-08-23T14:31:48.637Z info: Fetching channel partners
+2024-08-23T14:31:48.642Z info: Channel partners fetched successfully
+2024-08-23T14:32:12.435Z info: Connected to the MySQL database mysql2
+2024-08-23T14:32:16.596Z info: Connected to the MySQL database mysql2
+2024-08-23T14:32:19.862Z info: Connected to the MySQL database mysql2
+2024-08-23T14:32:22.524Z info: Connected to the MySQL database mysql2
+2024-08-23T14:32:26.923Z info: Connected to the MySQL database mysql2
+2024-08-23T14:32:29.149Z info: Connected to the MySQL database mysql2
+2024-08-23T14:32:31.923Z info: Connected to the MySQL database mysql2
+2024-08-23T14:36:52.859Z info: Connected to the MySQL database mysql2
+2024-08-23T14:37:05.045Z info: Connected to the MySQL database mysql2
+2024-08-23T14:37:11.232Z info: Connected to the MySQL database mysql2
+2024-08-23T14:37:17.324Z info: Connected to the MySQL database mysql2
+2024-08-23T14:37:20.658Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:24.103Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:26.209Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:27.291Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:36.422Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:42.523Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:50.103Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:51.996Z info: Connected to the MySQL database mysql2
+2024-08-23T14:38:54.505Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:05.657Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:12.130Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:16.513Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:29.606Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:30.712Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:37.629Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:39.405Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:47.748Z info: Connected to the MySQL database mysql2
+2024-08-23T14:39:51.549Z info: Connected to the MySQL database mysql2
+2024-08-23T14:44:04.011Z info: New lead submitted by partner code JD9H3
+2024-08-23T14:44:06.515Z info: New lead submitted by partner code JD9H3
+2024-08-23T14:44:10.565Z info: New lead submitted by partner code JD9H3
+2024-08-23T14:46:40.711Z info: Connected to the MySQL database mysql2
+2024-08-23T14:46:46.934Z info: Connected to the MySQL database mysql2
+2024-08-23T14:46:49.859Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:00.505Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:02.533Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:15.793Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:18.580Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:25.758Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:26.948Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:33.251Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:37.372Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:40.933Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:42.835Z info: Connected to the MySQL database mysql2
+2024-08-23T14:47:46.510Z info: Connected to the MySQL database mysql2
+2024-08-23T14:48:03.958Z info: Connected to the MySQL database mysql2
+2024-08-23T14:48:32.275Z info: Connected to the MySQL database mysql2
+2024-08-23T14:48:51.589Z info: Leads fetched successfully
+2024-08-23T17:58:01.206Z info: Connected to the MySQL database mysql2
+2024-08-23T17:58:29.113Z info: Connected to the MySQL database mysql2
+2024-08-23T17:58:48.583Z info: Leads fetched successfully
+2024-08-23T18:12:50.073Z info: Leads fetched successfully
+2024-08-23T18:12:50.078Z info: Leads fetched successfully
+2024-08-23T18:12:56.635Z info: Leads fetched successfully
+2024-08-23T18:12:58.951Z info: Leads fetched successfully
+2024-08-23T18:13:14.686Z info: Leads fetched successfully
+2024-08-23T18:13:18.685Z info: Leads fetched successfully
+2024-08-23T18:13:24.603Z info: Leads fetched successfully
+2024-08-23T18:13:24.607Z info: Leads fetched successfully
+2024-08-23T18:15:20.615Z info: Connected to the MySQL database mysql2
+2024-08-23T18:15:24.819Z info: Leads fetched successfully
+2024-08-23T18:15:24.831Z info: Leads fetched successfully
+2024-08-23T18:18:44.658Z info: Leads fetched successfully
+2024-08-23T18:18:44.663Z info: Leads fetched successfully
+2024-08-23T18:24:05.569Z info: Leads fetched successfully
+2024-08-23T18:24:05.573Z info: Leads fetched successfully
+2024-08-23T18:25:15.384Z info: Fetching channel partners
+2024-08-23T18:25:15.386Z info: Channel partners fetched successfully
+2024-08-23T18:28:29.699Z info: Leads fetched successfully
+2024-08-23T18:28:29.702Z info: Leads fetched successfully
+2024-08-23T18:28:42.702Z info: Leads fetched successfully
+2024-08-23T18:28:42.704Z info: Leads fetched successfully
